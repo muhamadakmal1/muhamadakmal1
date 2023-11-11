@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadakmal1&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadakmal1" /> </p>
 
-- 📫 How to reach me **mohammadakmal152@gmail.com**
+- 📫 Reach me **mohammadakmal152@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3sqxMSVP8YNaNtjrdmow6A&ust=1699352078753000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID6yPqRr4IDFQAAAAAdAAAAABAJ](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)">
