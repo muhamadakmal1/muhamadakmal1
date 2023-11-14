@@ -1,6 +1,6 @@
 ![logo](https://iili.io/JqPATrP.md.jpg)
 <h1 align="center">Hi 👋, I'm Akmal</h1>
-<h3 align="center">Data Science python</h3>
+<h3 align="center">Data Science | Python | ML | YouTuber </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadakmal1&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadakmal1" /> </p>
 
