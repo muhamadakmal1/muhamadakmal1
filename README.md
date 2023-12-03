@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Student<br>🤝 I’m looking for help learning ML .<br>🌱 I’m currently learning Data Sceince.<br>💬 Ask me about anything
+🔭 I’m Student<br>🤝 I’m looking for help learning ML .<br>🌱 I’m currently learning Data Sceince.<br>💬 Ask me anything
 
 
 ## 🌐 Socials:
