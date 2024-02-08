@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m looking to collaborate on YouTube<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Data Science<br>
+ I’m looking to collaborate on YouTube<br>🌱 I’m currently learning Data Science<br>💬 Ask me about....<br>
 
 
 ## 🌐 Socials:
