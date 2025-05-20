@@ -9,9 +9,9 @@
 </div>
 
 
-## Interest 🧐
+<!--## Interest 🧐
 - Decision-making using Causal Reinforcement Learning <br>
-- Resource allocation within healthcare systems <br>
+- Resource allocation within healthcare systems --><br>
 <br> <br>
 
 
