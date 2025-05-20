@@ -31,7 +31,7 @@ BSc in Mathematics
 <br> <br>
 
 ## Contact 💬
-<a href="mailto:com0901226@korea.ac.kr">
+<a href="mailto:mohammadakmal152@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mohammadakaml152@gmail.com"/></a>
 <a href="https://www.instagram.com/danishsh_a/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link="https://www.instagram.com/danishsh_a/"/></a> 
