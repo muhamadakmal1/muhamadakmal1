@@ -1,61 +1,57 @@
-# 👋 Hi, I'm Danish
+<p align="center">
+  <!-- Replace this with the hosted link of your animated SVG -->
+  <img src="https://your-cdn-link.com/header.svg" alt="Animated Banner" />
+</p>
 
-🎯 **Data Scientist | Developer | Problem Solver**  
-🔍 Passionate about data-driven solutions and impactful machine learning applications.
+# 👋 Hello, I'm Danish
 
----
+**Data Scientist | Machine Learning Specialist | Full-Stack Developer**
 
-## 🚀 About Me
-
-- 💼 I'm currently working on projects involving **data analysis**, **machine learning**, and **web development**.
-- 📊 I enjoy turning complex problems into clear, actionable insights.
-- 🧠 Always learning — currently exploring **Deep Learning** and **Cloud Technologies**.
-- ✍️ I also build tools with **Python**, **React**, and **Node.js**.
+I specialize in transforming complex data into clear, actionable insights. With a strong background in both data science and full-stack development, I create solutions that are data-driven, scalable, and impactful.
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 About Me
 
-**Languages & Tools:**
+- 🎓 Background in data science, machine learning, and web development.
+- 🔍 Passionate about **data storytelling**, **causal inference**, and **ML engineering**.
+- 🌱 Currently diving deeper into **deep learning** and **cloud ML platforms**.
+- 💬 Always open to collaborations, open-source contributions, and data science challenges.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+---
 
-**Frameworks & Libraries:**
+## 🧰 Tech Stack
 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+**Languages**:  
+Python, R, SQL, JavaScript
 
-**Tools & Platforms:**
+**Data & Machine Learning**:  
+Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, TensorFlow, Keras, XGBoost
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+**Web & Backend**:  
+React, Node.js, Express.js, Flask, Bootstrap
+
+**Tools & Platforms**:  
+Git, Docker, Linux, VS Code, Jupyter, MongoDB, PostgreSQL
 
 ---
 
 ## 📈 GitHub Stats
 
-![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhamadakmal1&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadakmal1&layout=compact&theme=github_dark)
-
----
-
-## 📫 Let's Connect!
-
-- 🌐 [Portfolio](https://your-portfolio-url.com)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://linkedin.com/in/yourhandle)
-- 💻 [GitHub](https://github.com/your-username)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhamadakmal1&show_icons=true&theme=default&hide_title=true&hide_rank=false" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadakmal1&layout=compact&theme=default&hide_title=true" alt="Top Languages" />
+</p>
 
 ---
 
-_Thank you for visiting!_
+## 📫 Connect with Me
 
+- 💼 [LinkedIn](https://linkedin.com/in/muhamad-akmal-)
+- 🌐 [Portfolio](https://your-portfolio.com)
+- 🐙 [GitHub](https://github.com/muhamadakmal1)
+
+---
+
+_Thanks for visiting! Feel free to explore my repositories and reach out if you're interested in collaborating._
