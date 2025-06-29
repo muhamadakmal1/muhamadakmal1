@@ -8,81 +8,78 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhamadakmal1&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <p>⚡ <em>Turning data into decisions and ideas into interfaces</em> ⚡</p>
+</div>
 
 ## 👋 About Me
 
-I am **Muhamad Akmal**, a results-driven Data Scientist and Full-Stack MERN Developer passionate about transforming data into actionable insights and building intelligent applications. With a strong foundation in mathematics, statistical modeling, and full-stack development, I bridge the gap between data and impactful digital experiences.
+I'm **Muhamad Akmal**, a passionate **Data Scientist** and **MERN Stack Developer** with expertise in transforming raw data into actionable insights and building scalable web applications. My hybrid skill set allows me to bridge the gap between data analysis and full-stack development, creating intelligent solutions that drive impact.
 
-I bring a collaborative mindset, attention to detail, and continuous learning to every project—whether it's deploying machine learning models or crafting modern web applications.
+**What I bring to the table:**
+- 🧠 Strong foundation in mathematics, statistics, and machine learning
+- 💻 Full-stack development capabilities (MongoDB, Express, React, Node.js)
+- 🔍 Data storytelling through visualization and model deployment
+- 🚀 Agile mindset with emphasis on clean code and documentation
 
 ---
 
 ## 🎓 Education
 
-- **Master of Computer Applications (MCA)**  
-  *BBD University, Lucknow (2023 – 2025)*
-
-- **Bachelor of Science in Mathematics**  
-  *Deen Dayal Upadhyay Gorakhpur University (2019 – 2022)*
-
----
-
-## 💼 Core Competencies
-
-- **Data Science**: Data preprocessing, EDA, supervised/unsupervised ML, deep learning (CNN, RNN)
-- **Web Development**: Full-stack applications with React.js, Node.js, Express.js, MongoDB
-- **Model Deployment**: Flask, Streamlit, REST APIs
-- **Version Control & Collaboration**: Git, GitHub, Agile practices
+| Degree | Institution | Year |
+|--------|-------------|------|
+| **Master of Computer Applications (MCA)** | BBD University, Lucknow | 2023 – 2025 |
+| **Bachelor of Science in Mathematics** | Deen Dayal Upadhyay Gorakhpur University | 2019 – 2022 |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)  ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+**Data Science & AI**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Frameworks & Libraries**:  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**Web Development**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Tools**:  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
-
----
-
-## 📈 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| **[Pneumonia Detection Using Deep Learning](https://github.com/muhamadakmal1/Pneumonia-Detection-Using-Deep-Learning)** | Built a CNN-based model to detect pneumonia from chest X-rays with high accuracy. |
-| **[EDA on Heart Failure Clinical Records](https://github.com/muhamadakmal1/EDA-od-Heart-Failure-Clinical-Records-)** | Exploratory data analysis to uncover clinical patterns and predict risk of heart failure. |
-| **[Traffic Crash Streamlit App](https://github.com/muhamadakmal1/Traffic-Crash-Streamlit-App)** | Interactive dashboard analyzing accident patterns to promote road safety. |
-| **[Car Number Plate Detection](https://github.com/muhamadakmal1/Car-Number-Plates-Detection)** | Used OpenCV and deep learning for automatic license plate detection. |
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-## 📬 Get in Touch
+## 🚀 Featured Projects
 
-Feel free to reach out for collaborations, internships, or just a friendly chat about tech:
+### 🔬 Data Science & AI
+| Project | Technologies | Description |
+|---------|--------------|-------------|
+| [Pneumonia Detection](https://github.com/muhamadakmal1/Pneumonia-Detection-Using-Deep-Learning) | CNN, TensorFlow | Deep learning model to detect pneumonia from chest X-rays with 92% accuracy |
+| [Heart Failure EDA](https://github.com/muhamadakmal1/EDA-od-Heart-Failure-Clinical-Records-) | Pandas, Seaborn | Comprehensive analysis of clinical records to predict heart failure risk |
+| [Traffic Crash Analysis](https://github.com/muhamadakmal1/Traffic-Crash-Streamlit-App) | Streamlit, Plotly | Interactive dashboard for accident pattern visualization |
 
-<a href="mailto:mohammadakmal152@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/muhamadakmal019/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/danishsh_a/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-</a>
-
----
-
-## 🔗 Portfolio
-
-Coming soon: <a href="#">Portfolio</a>
-_(Building a clean, minimal portfolio to showcase my work and research)_
+### 🌐 Web Development
+| Project | Stack | Key Features |
+|---------|-------|--------------|
+| [E-commerce Platform](#) | MERN, Redux | JWT auth, payment integration, admin dashboard |
+| [Task Management App](#) | React, Firebase | Real-time updates, drag-and-drop interface |
 
 ---
 
-<p align="center">
-  ⚡ Let’s build impactful data-driven and web-powered solutions together!
-</p>
+## 📬 Let's Connect
+
+I'm always open to collaborations, internships, or discussing innovative ideas:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamadakmal019/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadakmal152@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhamadakmal1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=portfolio&logoColor=white)](https://my-portfolio-ecru-three-32.vercel.app/)
+
+---
+
